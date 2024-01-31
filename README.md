@@ -15,7 +15,7 @@
 
 <h2>📺 Inspirational Channels Who Inspire Me</h2>
 
-- [Dani](https://www.youtube.com/@Danidev))
+- [Dani](https://www.youtube.com/@Danidev)
 - [PontyPants](https://www.youtube.com/@Pontypants)
 - [Programming with Mosh](https://www.youtube.com/@programmingwithmosh)
 - [Nicholas Renotte](https://www.youtube.com/@NicholasRenotte)

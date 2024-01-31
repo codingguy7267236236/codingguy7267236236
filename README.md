@@ -1,4 +1,4 @@
-<h1>Hello, I am Michael! I am a code enthusiast who likes playing aorund and learning code to increase my skillsets. <br/><a href="https://github.com/codingguy7267236236"></h1>
+<h1>Hello, I am Michael! I am a code enthusiast who likes playing around and learning code to increase my skillsets. <br/><a href="https://github.com/codingguy7267236236"></h1>
 
 <h2>Projects:</h2>
 

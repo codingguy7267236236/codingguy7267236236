@@ -15,7 +15,7 @@
 - <b>Manager Performance Improvements</b>
   - [Using Python Flask, HTML, CSS and JavaScript to improve a pre-existing site for an Organisational Development Manager](https://github.com/codingguy7267236236/Manager-consultant-web-project)
 
-<h2>📺 Inspirational Channels Who Inspire Me</h2>
+<h2>📺 Channels I Like To Watch</h2>
 
 - [Dani](https://www.youtube.com/@Danidev)
 - [PontyPants](https://www.youtube.com/@Pontypants)

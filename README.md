@@ -12,6 +12,8 @@
   - [Built in the Unity Game Engine utilising C# Scripts]
 - <b>Voice Assistant</b>
   - [Python Application utilises Speech-Recognition, TTS (Text-to-speech) libraries]
+- <b>Manager Performance Improvements</b>
+  - [Using Python Flask, HTML, CSS and JavaScript to improve a pre-existing site for an Organisational Development Manager](https://github.com/codingguy7267236236/Manager-consultant-web-project)
 
 <h2>📺 Inspirational Channels Who Inspire Me</h2>
 

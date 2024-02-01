@@ -3,15 +3,15 @@
 <h2>Projects:</h2>
 
 - <b>Stock Market Scrapping Bot</b>
-  - [Discord Bot built with Python and Yahoo Finance library] 
+  - [Discord Bot built with Python and Yahoo Finance library](https://github.com/codingguy7267236236/Stock-Scraping-Bot)
 - <b>Interactive SVG Map Site</b>
   - [Interactive SVG Map that dispalys data when clicked on using HTML, CSS, JavaScript, Python Flask]
 - <b>Moo Media</b>
   - [Mock Social Media Site design built on Python Flask, utilises a custom API]
 - <b>Lego Character Customiser</b>
-  - [Built in the Unity Game Engine utilising C# Scripts]
+  - [Built in the Unity Game Engine utilising C# Scripts](https://github.com/codingguy7267236236/Unity-Lego-Character-Customizer)
 - <b>Voice Assistant</b>
-  - [Python Application utilises Speech-Recognition, TTS (Text-to-speech) libraries]
+  - [Python Application utilises Speech-Recognition, TTS (Text-to-speech) libraries](https://github.com/codingguy7267236236/Voice-Assistant)
 - <b>Manager Performance Improvements</b>
   - [Using Python Flask, HTML, CSS and JavaScript to improve a pre-existing site for an Organisational Development Manager](https://github.com/codingguy7267236236/Manager-consultant-web-project)
 

@@ -7,7 +7,7 @@
 - <b>Interactive SVG Map Site</b>
   - [Interactive SVG Map that dispalys data when clicked on using HTML, CSS, JavaScript, Python Flask]
 - <b>Moo Media</b>
-  - [Mock Social Media Site design built on Python Flask, utilises a custom API]
+  - [Mock Social Media Site design built on Python Flask]
 - <b>Lego Character Customiser</b>
   - [Built in the Unity Game Engine utilising C# Scripts](https://github.com/codingguy7267236236/Unity-Lego-Character-Customizer)
 - <b>Voice Assistant</b>

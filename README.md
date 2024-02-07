@@ -5,7 +5,7 @@
 - <b>Stock Market Scrapping Bot</b>
   - [Discord Bot built with Python and Yahoo Finance library](https://github.com/codingguy7267236236/Stock-Scraping-Bot)
 - <b>Interactive SVG Map Site</b>
-  - [Interactive SVG Map that dispalys data when clicked on using HTML, CSS, JavaScript, Python Flask]
+  - [Interactive SVG Map that dispalys data when clicked on using HTML, CSS, JavaScript, Python Flask](https://github.com/codingguy7267236236/POTR)
 - <b>Moo Media</b>
   - [Mock Social Media Site design built on Python Flask]([https://github.com/codingguy7267236236/Voice-Assistant](https://github.com/codingguy7267236236/Moo-Media-Current-Version-))
 - <b>Lego Character Customiser</b>

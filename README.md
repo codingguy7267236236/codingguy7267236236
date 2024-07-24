@@ -12,10 +12,10 @@
   - [Built in the Unity Game Engine utilising C# Scripts](https://github.com/codingguy7267236236/Unity-Lego-Character-Customizer)
 - <b>Voice Assistant</b>
   - [Python Application utilises Speech-Recognition, TTS (Text-to-speech) libraries](https://github.com/codingguy7267236236/Voice-Assistant)
-- <b>Football Manager Logo Tool</b>
-  - [Using Python to automate adding club logos to FM](https://github.com/codingguy7267236236/Manager-consultant-web-project)
 - <b>Manager Performance Improvements</b>
-  - [Using Python Flask, HTML, CSS and JavaScript to improve a pre-existing site for an Organisational Development Manager]([(https://github.com/codingguy7267236236/football-manager-custom-logo-tool)])
+  - [Using Python Flask, HTML, CSS and JavaScript to improve a pre-existing site for an Organisational Development Manager](https://github.com/codingguy7267236236/Manager-consultant-web-project)
+- <b>Football Manager Logo Tool</b>
+  - [Using Python to automate adding club logos to FM](https://github.com/codingguy7267236236/football-manager-custom-logo-tool)
 
 <h2>📺 Channels I Like To Watch</h2>
 

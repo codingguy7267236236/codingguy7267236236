@@ -2,6 +2,8 @@
 
 <h2>Projects:</h2>
 
+- <b>Stock Market Prediction Bot</b>
+  - [Stock Market Prediction bot utilising xgboost](https://github.com/codingguy7267236236/Stock-Market-Prediction-Bot)
 - <b>Stock Market Scrapping Bot</b>
   - [Discord Bot built with Python and Yahoo Finance library](https://github.com/codingguy7267236236/Stock-Scraping-Bot)
 - <b>Interactive SVG Map Site</b>
@@ -24,21 +26,8 @@
 - [Programming with Mosh](https://www.youtube.com/@programmingwithmosh)
 - [Nicholas Renotte](https://www.youtube.com/@NicholasRenotte)
 - [Tiff In Tech](https://www.youtube.com/@TiffInTech)
+- [TechWorld With Nana](https://www.youtube.com/@TechWorldwithNana)
 - [Internet Made Coder](https://www.youtube.com/@InternetMadeCoder)
 - [Tech With Tim](https://www.youtube.com/@TechWithTim)
 - [Code Monkey](https://www.youtube.com/@CodeMonkeyUnity)
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
